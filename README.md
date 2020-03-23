@@ -8,6 +8,7 @@ Davi Gomes Leardine Pontes.<br>
 
 ```
 Cadastro dos clientes;
-Cadastro dos vendedores;
+Cadastro dos funcionários;
 Livros em estoque;
 Livros vendidos;
+Livros danificados;
