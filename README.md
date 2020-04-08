@@ -12,12 +12,3 @@ Com o passar dos anos, o negócio familiar fora passado dos pais para o filho ma
 A partir do momento que o cliente entra na livraria, caso o livro esteja na prateleira, ele poderá ir direto para o balcão, onde é atendido por um balconista. Lá, caso ainda não tenha um, o funcionário criará um cadastro do cliente, onde estará todas as informações pessoais e mercadorias já compradas pela pessoa. Caso não esteja, o balconista pesquisará no estoque, tudo de forma digital. Todos os livros danificados serão separados para reciclagem.
 
 ![Livraria-Cultura-do-Rio-fica-na-Rua-Senador-Dantas-1](https://user-images.githubusercontent.com/62575656/78735367-09971780-7921-11ea-8623-baa112bed434.jpg)
-
-
-
-```
-Cadastro dos clientes;
-Cadastro dos funcionários;
-Livros em estoque;
-Livros vendidos;
-Livros danificados;
