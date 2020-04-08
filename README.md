@@ -11,5 +11,5 @@ Com o passar dos anos, o negócio familiar fora passado dos pais para o filho ma
 
 A partir do momento que o cliente entra na livraria, caso o livro esteja na prateleira, ele poderá ir direto para o balcão, onde é atendido por um balconista. Lá, caso ainda não tenha um, o funcionário criará um cadastro do cliente, onde estará todas as informações pessoais e mercadorias já compradas pela pessoa. Caso não esteja, o balconista pesquisará no estoque, tudo de forma digital. Todos os livros danificados serão separados para reciclagem ao fim do mês. Os livros serão organizados nas prateleiras por gênero e faixa etária, para que o cliente possa encontrá-los com facilidade. Também será atribuído no sistema de qual editora estão sendo distribuídos. 
 
-# Modelo Conceitual: gerencimaneto de uma livraria.
+# Modelo Conceitual.
 ![modeloceonceitual](https://user-images.githubusercontent.com/62575656/78739880-9fd03b00-792b-11ea-8e35-540d96b64324.png)
