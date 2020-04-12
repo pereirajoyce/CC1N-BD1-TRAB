@@ -20,3 +20,5 @@ No estoque, os livros serão organizados através do seu <b>título</b>, <b>auto
 Um atendimento é seguido do seu <b>protocolo</b>, que também é o identificador exclusivo, a <b>data</b> de ocorrência, o <b>status</b> em que está – esperando pagamento, cancelado etc – e poderá conter a <b>avaliação</b> do balconista caso o cliente se sinta à vontade. 
 
 O item informado é identificado através da informação de qual <b>livro</b> e a <b>quantidade</b> vendida do mesmo. Em seguida, no processo da venda do produto será gerado uma <b>nota fiscal</b>, que funcionará como o identificador exclusivo dessa etapa. Também será informado a <b>data</b> da venda e o <b>preço</b> total.
+
+# Perguntas que o sistema conseguirá responder:
