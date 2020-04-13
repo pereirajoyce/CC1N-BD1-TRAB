@@ -22,3 +22,12 @@ Um atendimento é seguido do seu <b>protocolo</b>, que também é o identificado
 O item informado é identificado através da informação de qual <b>livro</b> e a <b>quantidade</b> vendida do mesmo. Em seguida, no processo da venda do produto será gerado uma <b>nota fiscal</b>, que funcionará como o identificador exclusivo dessa etapa. Também será informado a <b>data</b> da venda e o <b>preço</b> total.
 
 # Perguntas que o sistema conseguirá responder:
+Dado as informações obtidas pelo banco de dados, o sistema conseguirá responder inúmeras perguntas. Como, por exemplo:
+Qual o gênero mais vendido?
+Clientes que leem um determinado gênero são mais propensos a lerem quais autores?
+Qual o autor mais popular da livraria?
+Em média, quantos livros são vendidos mensalmente?
+Em qual época do ano são vendidos mais livros?
+Qual é a média de preço dos livros mais procurados?
+Com base na média das notas dadas pelo atendimento, o balconista está fazendo um bom trabalho?
+
