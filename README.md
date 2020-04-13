@@ -26,7 +26,7 @@ Dado as informações obtidas pelo banco de dados, o sistema conseguirá respond
 
 Qual o gênero mais vendido?<br>
 Clientes que leem um determinado gênero são mais propensos a lerem quais autores?<br>
-Qual o autor mais popular da livraria?<br>
+Qual o autor/livro mais popular da livraria?<br>
 Em média, quantos livros são vendidos mensalmente?<br>
 Em qual época do ano são vendidos mais livros?<br>
 Qual é a média de preço dos livros mais procurados?<br>
