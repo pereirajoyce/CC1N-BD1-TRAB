@@ -31,4 +31,4 @@ Em média, quantos livros são vendidos mensalmente?<br>
 Em qual época do ano são vendidos mais livros?<br>
 Qual é a média de preço dos livros mais procurados?<br>
 Com base na média das notas dadas pelo atendimento, o balconista está fazendo um bom trabalho?<br>
-
+Quantos livros são danificados mensalmente?
