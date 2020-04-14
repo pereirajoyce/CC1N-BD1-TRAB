@@ -28,7 +28,7 @@ Qual o gênero mais vendido?<br>
 Clientes que leem um determinado gênero são mais propensos a lerem quais autores?<br>
 Qual o autor/livro mais popular da livraria?<br>
 Em média, quantos livros são vendidos mensalmente?<br>
-Qual é a média de livros danificados por mês?
+Qual é a média de livros danificados por mês?<br>
 Em qual época do ano são vendidos mais livros?<br>
 Qual é a média de preço dos livros mais procurados?<br>
 Com base na média das notas dadas pelo atendimento, o balconista está fazendo um bom trabalho?<br>
