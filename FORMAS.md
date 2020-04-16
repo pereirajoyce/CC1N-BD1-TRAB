@@ -8,4 +8,4 @@ A segunda forma garante a coerência dentro do banco de dados, fazendo com que t
 
 # Terceira Forma Normal (3NF)
 
-A terceira forma explica que nenhum atributo que não seja um identificador exclusivo pode depender de outro que também não seja um. Ou seja, não é tolerado uma dependência transitiva, quando um atributo é dependente de outro que não é o exclusivo nessa entidade. Quando isso ocorre, é preciso movê-los para outra entidade.
+A terceira forma explica que nenhum atributo que não seja um identificador exclusivo pode depender de outro que também não seja um. Ou seja, não é tolerado uma dependência transitiva, quando um atributo é dependente de outro que não é o exclusivo nessa entidade. Quando isso ocorre, é preciso movê-los para outra entidade. É melhor para deixar mais objetivo 
