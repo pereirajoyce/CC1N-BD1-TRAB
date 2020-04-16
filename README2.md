@@ -4,7 +4,7 @@ A primeira forma normal mostra que não é possível haver vários valores para 
 
 # Segunda Forma Normal (2NF)
 
-Essa regra garante a coerência dentro do banco de dados, fazendo com que todos os atributos dentro de uma entidade pertençam/dependam dela.
+Essa regra garante a coerência dentro do banco de dados, fazendo com que todos os atributos dentro de uma entidade pertençam/dependam dela. É possível identificar a necessidade/aplicação dessa regra quando observa-se a entidade e o UID da mesma e vê-se uma relação direta entre as atributo e o identificador, caso essa relação não seja direta, é necessário a mudança dele para uma outra entidade.
 
 # Terceira Forma Normal (3NF)
 
